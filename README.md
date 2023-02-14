@@ -47,7 +47,7 @@ I'm going to talk about myself a little more professionally now.
 
 I entered college at the age of 17 on my first try and first choice. Turkish Language and Literature program.
 I will never regret studying literature for the rest of my life, it has given me tremendous perspective and speaking ability. However, from time to time, I say 'I wish I had left literature as a hobby'.
-
+Then, I used my second university preference right without an exam and moved to the Computer Programming department.
 And on 05.09.2022, when I didn't even know how to do Ctrl+C/Ctrl+V, I suddenly decided to step into the magical world of software. When I started learning completely as a hobby, now I am an addict who cannot stop learning something new every day.
 ---
 
