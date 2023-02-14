@@ -17,9 +17,10 @@ And here is a space image of that day that NASA shared on the day I was born.
 > I am currently focusing on my work and training as a front-end developer.
 
 ## What I've learned so far:
-
-
-
+![Html](https://img.icons8.com/external-beshi-color-kerismaker/256/external-HTML-web-development-beshi-color-kerismaker.png)
+![Css](https://img.icons8.com/nolan/256/css-filetype.png)
+![Bootstrap](https://img.icons8.com/color/256/bootstrap.png)
+![Sass](https://img.icons8.com/color/256/sass.png)
 
 
 
