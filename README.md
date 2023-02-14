@@ -7,13 +7,15 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 
 And here is a space image of that day that NASA shared on the day I was born.
 
-![Hand](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
+![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
 ---
 
 
-> What am I interested in: Web Development.
+> What am I interested in: Web Development. ![Web](https://img.icons8.com/plasticine/256/html.png)
 
 > I am currently focusing on my work and training as a front-end developer.
+
+## What I've learned so far:
 
 
 
