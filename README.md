@@ -11,7 +11,8 @@ And here is a space image of that day that NASA shared on the day I was born.
 ---
 
 
-> What am I interested in: Web Development. ![Web](https://img.icons8.com/plasticine/256/html.png)
+> What am I interested in: Web Development. 
+> ![Web](https://img.icons8.com/plasticine/256/html.png)
 
 > I am currently focusing on my work and training as a front-end developer.
 
