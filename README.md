@@ -1,5 +1,5 @@
-# Hi there 👋
-![Hand](https://img.icons8.com/bubbles/256/hand-side-view.png)  # Hi
+# Hi there
+![Hand](https://img.icons8.com/bubbles/256/hand-side-view.png) 
 
 
 
