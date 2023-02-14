@@ -5,6 +5,7 @@
 My name is Çiğdem, but if it is sometimes difficult to pronounce, you can call me Esta. I know 'Esta' means 'This' in Spanish, I may seem like I'm introducing myself as 'This is Çiğdem Butler' at first glance.
 In fact, Esta meant 'starlike' in a language no longer used on earth. Because of my admiration for space, it has become a habit to add the word Esta next to my name in many of my social media accounts.
 
+And here is a space image of that day that NASA shared on the day I was born.
 ![Hand](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
 ---
 
