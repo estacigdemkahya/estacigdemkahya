@@ -1,5 +1,5 @@
 # Hi there 👋
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://icons8.com/icon/ZZsz44i74DSw/hand-side-view)
 
 
 
