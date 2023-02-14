@@ -11,6 +11,18 @@ And here is a space image of that day that NASA shared on the day I was born.
 ---
 
 
+> What am I interested in: Web Development
+> I am currently focusing on my work and training as a front-end developer.
+
+
+
+
+
+
+
+
+
+
 ---
 I am a Virgo woman.
 I don't know how much you believe in horoscopes, but I use my horoscope as a keyword to talk about myself.
