@@ -6,11 +6,11 @@ My name is Çiğdem, but if it is sometimes difficult to pronounce, you can call
 In fact, Esta meant 'starlike' in a language no longer used on earth. Because of my admiration for space, it has become a habit to add the word Esta next to my name in many of my social media accounts.
 ---
 
+
 ![Web](https://img.icons8.com/plasticine/256/html.png)
 > What am I interested in: Web Development. 
 
 
-> I am currently focusing on my work and training as a front-end developer.
 
 ## What I've learned so far:
 ![Html](https://img.icons8.com/external-beshi-color-kerismaker/256/external-HTML-web-development-beshi-color-kerismaker.png)
