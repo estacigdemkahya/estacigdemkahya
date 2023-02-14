@@ -4,10 +4,6 @@
 ---
 My name is Çiğdem, but if it is sometimes difficult to pronounce, you can call me Esta. I know 'Esta' means 'This' in Spanish, I may seem like I'm introducing myself as 'This is Çiğdem Butler' at first glance.
 In fact, Esta meant 'starlike' in a language no longer used on earth. Because of my admiration for space, it has become a habit to add the word Esta next to my name in many of my social media accounts.
-
-And here is a space image of that day that NASA shared on the day I was born.
-
-![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
 ---
 
 ![Web](https://img.icons8.com/plasticine/256/html.png)
@@ -26,7 +22,6 @@ And here is a space image of that day that NASA shared on the day I was born.
 ## What am I learning now:
 ![JavaScript](https://img.icons8.com/arcade/256/javascript.png)
 ![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/256/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
-![Materialize]()
 
 
 
@@ -60,26 +55,11 @@ And on 05.09.2022, when I didn't even know how to do Ctrl+C/Ctrl+V, I suddenly d
 
 
 
+And here is a space image of that day that NASA shared on the day I was born.
+
+![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
 
 
 
-
-
-<!--
-**estacigdemkahya/estacigdemkahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
- 
 
 
