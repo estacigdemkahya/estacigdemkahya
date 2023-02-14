@@ -20,13 +20,15 @@ I don't know how much you believe in horoscopes, but I use my horoscope as a key
 In the end, it is true that I have produced very good works and this is certainly a fact, but it wastes me a lot of time.
 And I want to share with you my 2 precious life philosophies:
 
-'''
+```
 "Time is the most precious thing in life."
-'''
+```
 
-'''
+
+```
 "If you really want something, the whole universe cooperates with you to get it."
-'''
+```
+
 I'm going to talk about myself a little more professionally now.
 
 I entered college at the age of 17 on my first try and first choice. Turkish Language and Literature program.
