@@ -23,8 +23,10 @@ And here is a space image of that day that NASA shared on the day I was born.
 ![Sass](https://img.icons8.com/color/256/sass.png)
 
 
-
-
+## What am I learning now:
+![JavaScript](https://img.icons8.com/arcade/256/javascript.png)
+![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/256/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
+![Materialize]()
 
 
 
