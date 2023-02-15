@@ -2,8 +2,10 @@
 ![Hand](https://img.icons8.com/bubbles/256/hand-side-view.png) 
 
 ---
+
 My name is Çiğdem, but if it is sometimes difficult to pronounce, you can call me Esta. I know 'Esta' means 'This' in Spanish, I may seem like I'm introducing myself as 'This is Çiğdem Kahya' at first glance.
 In fact, Esta meant 'starlike' in a language no longer used on earth. Because of my admiration for space, it has become a habit to add the word Esta next to my name in many of my social media accounts.
+
 ---
 
 
