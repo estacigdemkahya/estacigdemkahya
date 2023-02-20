@@ -11,14 +11,14 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 
 
 
-> What am I interested in: Web Development. 
-.
+## What am I interested in: Web Development. 
+
 ![Web](https://img.icons8.com/plasticine/256/html.png)
 
 
 
 
-## What I've learned so far:
+### What I've learned so far:
 ![Html](https://img.icons8.com/external-beshi-color-kerismaker/256/external-HTML-web-development-beshi-color-kerismaker.png)
 ![Css](https://img.icons8.com/nolan/256/css-filetype.png)
 ![Bootstrap](https://img.icons8.com/color/256/bootstrap.png)
@@ -27,7 +27,7 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 
 
 
-## What am I learning now:
+### What am I learning now:
 ![algorithm](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/256/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png)
 ![JavaScript](https://img.icons8.com/arcade/256/javascript.png)
 ![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/256/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
