@@ -24,7 +24,7 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 ![Bootstrap](https://img.icons8.com/color/256/bootstrap.png)
 ![Sass](https://img.icons8.com/color/256/sass.png)
 ![SCSS](https://img.icons8.com/external-creatype-filed-outline-colourcreatype/256/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png)
-![postgresql](https://img.icons8.com/plasticine/256/postgreesql.png)
+![postgresql](https://img.icons8.com/plasticine/20x20/postgreesql.png)
 
 
 
