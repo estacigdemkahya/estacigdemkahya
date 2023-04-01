@@ -13,25 +13,25 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 
 ## What am I interested in: Web Development. 
 
-![Web](https://img.icons8.com/plasticine/256/html.png)
+![Web](https://img.icons8.com/plasticine/150/html.png)
 
 
 
 
 ### What I've learned so far:
-![Html](https://img.icons8.com/external-beshi-color-kerismaker/50/external-HTML-web-development-beshi-color-kerismaker.png)
-![Css](https://img.icons8.com/nolan/50/css-filetype.png)
-![Bootstrap](https://img.icons8.com/color/50/bootstrap.png)
-![Sass](https://img.icons8.com/color/50/sass.png)
-![SCSS](https://img.icons8.com/external-creatype-filed-outline-colourcreatype/50/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png)
-![postgresql](https://img.icons8.com/plasticine/50/postgreesql.png)
+![Html](https://img.icons8.com/external-beshi-color-kerismaker/100/external-HTML-web-development-beshi-color-kerismaker.png)
+![Css](https://img.icons8.com/nolan/100/css-filetype.png)
+![Bootstrap](https://img.icons8.com/color/100/bootstrap.png)
+![Sass](https://img.icons8.com/color/100/sass.png)
+![SCSS](https://img.icons8.com/external-creatype-filed-outline-colourcreatype/100/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png)
+![postgresql](https://img.icons8.com/plasticine/100/postgreesql.png)
 
 
 
 ### What am I learning now:
-![algorithm](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/256/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png)
-![JavaScript](https://img.icons8.com/arcade/256/javascript.png)
-![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/256/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
+![algorithm](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/100/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png)
+![JavaScript](https://img.icons8.com/arcade/100/javascript.png)
+![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/100/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
 
 
 
@@ -70,7 +70,7 @@ And on 05.09.2022, when I didn't even know how to do Ctrl+C/Ctrl+V, I suddenly d
 
 And here is a space image of that day that NASA shared on the day I was born.
 
-![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
+![Galaxy](https://apod.nasa.gov/apod/image/200/ngc3184_kelly.jpg) 
 
 
 
@@ -79,6 +79,6 @@ And here is a space image of that day that NASA shared on the day I was born.
 I'll keep updating here as I learn something new.
 
 
-![Bye](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
+![Bye](https://i.pinimg.com/originals/70/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
 ---
