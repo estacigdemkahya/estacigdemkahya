@@ -70,7 +70,7 @@ And on 05.09.2022, when I didn't even know how to do Ctrl+C/Ctrl+V, I suddenly d
 
 And here is a space image of that day that NASA shared on the day I was born.
 
-![Galaxy](https://apod.nasa.gov/apod/image/200/ngc3184_kelly.jpg) 
+![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg) 
 
 
 
@@ -79,6 +79,6 @@ And here is a space image of that day that NASA shared on the day I was born.
 I'll keep updating here as I learn something new.
 
 
-![Bye](https://i.pinimg.com/originals/70/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
+![Bye](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
 ---
