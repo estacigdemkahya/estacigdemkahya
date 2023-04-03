@@ -24,13 +24,14 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 ![Bootstrap](https://img.icons8.com/color/80/bootstrap.png)
 ![Sass](https://img.icons8.com/color/80/sass.png)
 ![SCSS](https://img.icons8.com/external-creatype-filed-outline-colourcreatype/80/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png)
-![postgresql](https://img.icons8.com/plasticine/80/postgreesql.png)
+
 
 
 
 ### What am I learning now:
 ![algorithm](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/80/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png)
 ![JavaScript](https://img.icons8.com/arcade/80/javascript.png)
+![postgresql](https://img.icons8.com/plasticine/80/postgreesql.png)
 ![SQL](https://img.icons8.com/external-vectorslab-flat-vectorslab/80/external-Global-Sql-servers-and-databases-vectorslab-flat-vectorslab.png)
 
 
