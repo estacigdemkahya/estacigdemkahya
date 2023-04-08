@@ -38,6 +38,7 @@ In fact, Esta meant 'starlike' in a language no longer used on earth. Because of
 
 
 ---
+
 I am a Virgo woman.
 I don't know how much you believe in horoscopes, but I use my horoscope as a keyword to talk about myself.
   Because yes, I have almost all the features mentioned. I am hardworking, meticulous and disciplined.
@@ -77,6 +78,7 @@ And here is a space image of that day that NASA shared on the day I was born.
 
 
 ---
+
 I'll keep updating here as I learn something new.
 
 
