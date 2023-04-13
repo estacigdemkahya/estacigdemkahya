@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 ![Hand](https://img.icons8.com/bubbles/200/hand-side-view.png) 
 
 ---
