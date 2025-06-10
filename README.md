@@ -84,3 +84,76 @@ I'll keep updating here as I learn something new.
 ![Bye](https://i.pinimg.com/originals/72/3f/e9/723fe9bf86184230f7286634f3b74543.gif) 
 
 ---
+
+
+---
+
+```markdown
+# Hi there!  
+![Hand](https://img.icons8.com/bubbles/200/hand-side-view.png)
+
+---
+
+My name is **Çiğdem**, but you can call me **Esta** — a name that started as a play on “This is Çiğdem” and evolved into something starlike.  
+Though “Esta” means “this” in Spanish, I once read that in a forgotten language, it meant **“starlike”** — a meaning I cherish deeply because of my lifelong admiration for space.  
+Today, **Esta** is the digital name I use to remind myself that curiosity expands as far as the stars do.
+
+---
+
+### 🌱 What I've learned so far:
+<p float="left">
+<img src="https://img.icons8.com/external-beshi-color-kerismaker/80/external-HTML-web-development-beshi-color-kerismaker.png" alt="HTML"/>
+<img src="https://img.icons8.com/nolan/80/css-filetype.png" alt="CSS"/>
+<img src="https://img.icons8.com/color/80/bootstrap.png" alt="Bootstrap"/>
+<img src="https://img.icons8.com/color/80/sass.png" alt="Sass"/>
+<img src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/80/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-8.png" alt="SCSS"/>
+</p>
+
+---
+
+### 📚 What I'm learning now:
+<p float="left">
+<img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/80/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png" alt="Algorithm"/>
+<img src="https://img.icons8.com/arcade/80/javascript.png" alt="JavaScript"/>
+</p>
+
+---
+
+### 🌌 About Me  
+I’m a **Virgo**, and whether you believe in astrology or not, I use my sign to summarize myself. I'm meticulous, passionate, and often get stuck trying to perfect something that was already fine.  
+Yes, I produce high-quality work.  
+But yes, it drains my time and energy.  
+So here are the two **truths** I live by:
+
+```
+
+"Time is the most precious thing in life."
+
+```
+```
+
+"If you really want something, the whole universe cooperates with you to get it." — Paulo Coelho
+
+```
+
+---
+
+### 🎓 My Educational Path  
+I entered university at 17, majoring in **Turkish Language and Literature** — a decision I’ll never regret. It sharpened my ability to communicate, empathize, and tell stories.  
+Still, I sometimes wish I had kept literature as a hobby — which is why I made a pivot.  
+Using my second university preference, I transitioned into **Computer Programming**.
+
+I started from **zero** — I didn’t even know how to copy and paste with Ctrl+C/Ctrl+V. But on **September 5, 2022**, I took my first step into the magical world of code.  
+Today, I’m a curious developer in progress. Still learning. Still building. Still dreaming.
+
+---
+
+### 🚀 A gift from the stars:  
+The NASA image shared on the day I was born:
+
+![Galaxy](https://apod.nasa.gov/apod/image/0009/ngc3184_kelly.jpg)
+```
+
+---
+
+
